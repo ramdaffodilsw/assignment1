@@ -1,0 +1,889 @@
+2024-10-24 12:18:54.874 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 12:18:54.874 | INFO     | __main__:main:76 - Extracting
+2024-10-24 12:18:54.878 | ERROR    | extract:load_file:53 - [Errno 2] No such file or directory: 'Borrower_Data - Sheet1.csv'
+2024-10-24 12:18:54.878 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 12:20:02.597 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 12:20:02.598 | INFO     | __main__:main:76 - Extracting
+2024-10-24 12:20:02.601 | ERROR    | extract:load_file:53 - [Errno 2] No such file or directory: 'Borrower_Data - Sheet1.csv'
+2024-10-24 12:20:02.601 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 12:20:26.712 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 12:21:05.161 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 12:21:05.161 | INFO     | __main__:main:76 - Extracting
+2024-10-24 12:21:05.165 | ERROR    | extract:load_file:53 - [Errno 2] No such file or directory: 'Borrower_Data - Sheet1.csv'
+2024-10-24 12:21:05.165 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 12:21:41.084 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 12:21:41.085 | INFO     | __main__:main:76 - Extracting
+2024-10-24 12:21:41.088 | ERROR    | extract:load_file:53 - [Errno 2] No such file or directory: 'D:\\\\Daffo\\\\Other\\\\assignment\\\\data_files\\\\inputBorrower_Data - Sheet1.csv'
+2024-10-24 12:21:41.088 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 12:22:33.136 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 12:22:33.136 | INFO     | __main__:main:76 - Extracting
+2024-10-24 12:22:56.640 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 12:22:56.640 | INFO     | __main__:main:76 - Extracting
+2024-10-24 12:23:22.363 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 12:23:22.363 | INFO     | __main__:main:76 - Extracting
+2024-10-24 12:23:22.367 | ERROR    | extract:load_file:52 - Excel file format cannot be determined, you must specify an engine manually.
+2024-10-24 12:23:22.367 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 12:25:56.533 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 12:25:56.533 | INFO     | __main__:main:76 - Extracting
+2024-10-24 12:25:56.534 | ERROR    | extract:load_file:52 - read_csv() got an unexpected keyword argument 'sheet_name'
+2024-10-24 12:25:56.534 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 12:26:34.698 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 12:26:34.698 | INFO     | __main__:main:76 - Extracting
+2024-10-24 12:26:34.712 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 15:04:55.635 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 15:04:55.636 | INFO     | __main__:main:76 - Extracting
+2024-10-24 15:04:55.642 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 15:04:55.643 | INFO     | __main__:main:84 - Loading
+2024-10-24 15:04:55.643 | ERROR    | __main__:main:136 - Error in downloading the file
+2024-10-24 15:04:55.643 | ERROR    | __main__:main:137 - load() missing 1 required positional argument: 'file_name'
+2024-10-24 15:06:43.420 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 15:06:43.420 | INFO     | __main__:main:76 - Extracting
+2024-10-24 15:06:43.428 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 15:06:43.428 | INFO     | __main__:main:84 - Loading
+2024-10-24 15:06:58.275 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 15:06:58.276 | INFO     | __main__:main:76 - Extracting
+2024-10-24 15:06:58.282 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 15:06:58.282 | INFO     | __main__:main:84 - Loading
+2024-10-24 15:30:20.600 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 15:30:20.601 | INFO     | __main__:main:76 - Extracting
+2024-10-24 15:30:20.607 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 15:30:20.607 | INFO     | __main__:main:84 - Loading
+2024-10-24 15:43:30.390 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 15:43:30.390 | INFO     | __main__:main:76 - Extracting
+2024-10-24 15:43:30.396 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 15:43:30.396 | INFO     | __main__:main:84 - Loading
+2024-10-24 15:43:30.396 | ERROR    | __main__:main:136 - Error in downloading the file
+2024-10-24 15:43:30.397 | ERROR    | __main__:main:137 - name 'engine' is not defined
+2024-10-24 15:44:29.069 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 15:44:29.069 | INFO     | __main__:main:76 - Extracting
+2024-10-24 15:44:29.075 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 15:44:29.075 | INFO     | __main__:main:84 - Loading
+2024-10-24 15:44:29.077 | ERROR    | __main__:main:136 - Error in downloading the file
+2024-10-24 15:44:29.077 | ERROR    | __main__:main:137 - Using URI string without sqlalchemy installed.
+2024-10-24 15:47:54.433 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 15:47:54.433 | INFO     | __main__:main:76 - Extracting
+2024-10-24 15:47:54.440 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 15:47:54.440 | INFO     | __main__:main:84 - Loading
+2024-10-24 15:47:54.440 | ERROR    | __main__:main:136 - Error in downloading the file
+2024-10-24 15:47:54.440 | ERROR    | __main__:main:137 - 'str' object has no attribute 'insert'
+2024-10-24 15:57:22.989 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 15:57:22.989 | INFO     | __main__:main:76 - Extracting
+2024-10-24 15:57:22.995 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 15:57:22.996 | INFO     | __main__:main:84 - Loading
+2024-10-24 16:00:11.231 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 16:00:11.231 | INFO     | __main__:main:76 - Extracting
+2024-10-24 16:00:11.237 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 16:00:11.238 | INFO     | __main__:main:84 - Loading
+2024-10-24 16:00:11.245 | ERROR    | __main__:main:136 - Error in downloading the file
+2024-10-24 16:00:11.246 | ERROR    | __main__:main:137 - MySQL driver not installed!
+2024-10-24 16:11:48.952 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 16:11:48.953 | INFO     | __main__:main:76 - Extracting
+2024-10-24 16:11:48.959 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 16:11:48.959 | INFO     | __main__:main:84 - Loading
+2024-10-24 16:22:27.027 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 16:22:27.028 | INFO     | __main__:main:76 - Extracting
+2024-10-24 16:22:27.034 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 16:22:27.034 | INFO     | __main__:main:84 - Loading
+2024-10-24 16:23:10.997 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 16:23:10.998 | INFO     | __main__:main:76 - Extracting
+2024-10-24 16:23:11.004 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 16:23:11.004 | INFO     | __main__:main:84 - Loading
+2024-10-24 16:23:11.005 | ERROR    | __main__:main:136 - Error in downloading the file
+2024-10-24 16:23:11.005 | ERROR    | __main__:main:137 - cannot access local variable 'object_name' where it is not associated with a value
+2024-10-24 16:24:33.655 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 16:24:33.655 | INFO     | __main__:main:76 - Extracting
+2024-10-24 16:24:33.662 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 16:24:33.662 | INFO     | __main__:main:84 - Loading
+2024-10-24 16:24:33.662 | ERROR    | __main__:main:136 - Error in downloading the file
+2024-10-24 16:24:33.662 | ERROR    | __main__:main:137 - MySQL driver not installed!
+2024-10-24 16:24:39.986 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 16:24:39.987 | INFO     | __main__:main:76 - Extracting
+2024-10-24 16:24:39.993 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 16:24:39.994 | INFO     | __main__:main:84 - Loading
+2024-10-24 16:24:39.994 | ERROR    | __main__:main:136 - Error in downloading the file
+2024-10-24 16:24:39.994 | ERROR    | __main__:main:137 - MySQL driver not installed!
+2024-10-24 16:25:34.308 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 16:25:34.308 | INFO     | __main__:main:76 - Extracting
+2024-10-24 16:25:34.314 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 16:25:34.315 | INFO     | __main__:main:84 - Loading
+2024-10-24 16:25:34.315 | ERROR    | __main__:main:136 - Error in downloading the file
+2024-10-24 16:25:34.315 | ERROR    | __main__:main:137 - MySQL driver not installed!
+2024-10-24 16:26:44.314 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 16:26:44.314 | INFO     | __main__:main:76 - Extracting
+2024-10-24 16:26:44.321 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 16:26:44.321 | INFO     | __main__:main:84 - Loading
+2024-10-24 16:27:55.366 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 16:27:55.367 | INFO     | __main__:main:76 - Extracting
+2024-10-24 16:27:55.373 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 16:27:55.373 | INFO     | __main__:main:84 - Loading
+2024-10-24 16:28:27.650 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 16:28:27.650 | INFO     | __main__:main:76 - Extracting
+2024-10-24 16:28:27.656 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 16:28:27.656 | INFO     | __main__:main:84 - Loading
+2024-10-24 16:30:34.994 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 16:30:34.994 | INFO     | __main__:main:76 - Extracting
+2024-10-24 16:30:35.000 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 16:30:35.001 | INFO     | __main__:main:84 - Loading
+2024-10-24 16:30:35.060 | ERROR    | __main__:main:136 - Error in downloading the file
+2024-10-24 16:30:35.060 | ERROR    | __main__:main:137 - 'str' object has no attribute 'insert'
+2024-10-24 16:31:33.333 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 16:31:33.333 | INFO     | __main__:main:76 - Extracting
+2024-10-24 16:31:33.339 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 16:31:33.339 | INFO     | __main__:main:84 - Loading
+2024-10-24 16:32:07.027 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 16:32:07.027 | INFO     | __main__:main:76 - Extracting
+2024-10-24 16:32:07.033 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 16:32:07.034 | INFO     | __main__:main:84 - Loading
+2024-10-24 16:32:29.619 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 16:32:29.619 | INFO     | __main__:main:76 - Extracting
+2024-10-24 16:32:29.625 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 16:32:29.626 | INFO     | __main__:main:84 - Loading
+2024-10-24 16:32:29.706 | ERROR    | __main__:main:136 - Error in downloading the file
+2024-10-24 16:32:29.706 | ERROR    | __main__:main:137 - 'tuple' object has no attribute 'insert'
+2024-10-24 17:04:59.788 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 17:04:59.789 | INFO     | __main__:main:76 - Extracting
+2024-10-24 17:04:59.795 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 17:04:59.795 | INFO     | __main__:main:84 - Loading
+2024-10-24 17:05:47.220 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 17:05:47.221 | INFO     | __main__:main:76 - Extracting
+2024-10-24 17:05:47.227 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 17:05:47.227 | INFO     | __main__:main:84 - Loading
+2024-10-24 17:05:47.287 | ERROR    | __main__:main:136 - Error in downloading the file
+2024-10-24 17:05:47.288 | ERROR    | __main__:main:137 - 'tuple' object has no attribute 'insert'
+2024-10-24 17:08:13.488 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 17:08:13.488 | INFO     | __main__:main:76 - Extracting
+2024-10-24 17:08:13.494 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 17:08:13.495 | INFO     | __main__:main:84 - Loading
+2024-10-24 17:08:13.550 | ERROR    | __main__:main:136 - Error in downloading the file
+2024-10-24 17:08:13.550 | ERROR    | __main__:main:137 - 'tuple' object has no attribute 'insert'
+2024-10-24 17:10:13.364 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 17:10:13.365 | INFO     | __main__:main:76 - Extracting
+2024-10-24 17:10:13.371 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 17:10:13.371 | INFO     | __main__:main:84 - Loading
+2024-10-24 17:11:25.713 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 17:11:25.714 | INFO     | __main__:main:76 - Extracting
+2024-10-24 17:11:25.720 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 17:11:25.720 | INFO     | __main__:main:84 - Loading
+2024-10-24 17:40:37.026 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 17:40:37.027 | INFO     | __main__:main:76 - Extracting
+2024-10-24 17:40:37.033 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 17:40:37.033 | INFO     | __main__:main:84 - Loading
+2024-10-24 17:40:37.034 | ERROR    | __main__:main:136 - Error in downloading the file
+2024-10-24 17:40:37.034 | ERROR    | __main__:main:137 - Could not parse SQLAlchemy URL from string 'dialect+driver//root:''@127.0.0.1:3306/autocheck'
+2024-10-24 17:42:23.928 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 17:42:23.929 | INFO     | __main__:main:76 - Extracting
+2024-10-24 17:42:23.935 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 17:42:23.935 | INFO     | __main__:main:84 - Loading
+2024-10-24 17:42:23.936 | ERROR    | __main__:main:136 - Error in downloading the file
+2024-10-24 17:42:23.936 | ERROR    | __main__:main:137 - Could not parse SQLAlchemy URL from string 'mysql+pymysql//root:''@127.0.0.1:3306/autocheck'
+2024-10-24 17:44:42.117 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 17:44:42.117 | INFO     | __main__:main:76 - Extracting
+2024-10-24 17:44:42.123 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 17:44:42.123 | INFO     | __main__:main:84 - Loading
+2024-10-24 17:44:42.163 | ERROR    | __main__:main:136 - Error in downloading the file
+2024-10-24 17:44:42.164 | ERROR    | __main__:main:137 - (pymysql.err.OperationalError) (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-24 17:46:15.981 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 17:46:15.981 | INFO     | __main__:main:76 - Extracting
+2024-10-24 17:46:15.987 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 17:46:15.988 | INFO     | __main__:main:84 - Loading
+2024-10-24 17:46:16.026 | ERROR    | __main__:main:136 - Error in downloading the file
+2024-10-24 17:46:16.027 | ERROR    | __main__:main:137 - (pymysql.err.OperationalError) (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-24 18:00:02.100 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 18:00:02.101 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:00:02.107 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:00:02.107 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:24:21.852 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 18:24:21.852 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:24:21.859 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:24:21.859 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:24:44.054 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 18:24:44.055 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:24:44.061 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:24:44.061 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:24:44.094 | ERROR    | __main__:main:136 - Error in downloading the file
+2024-10-24 18:24:44.094 | ERROR    | __main__:main:137 - 'Index' object is not callable
+2024-10-24 18:24:58.403 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 18:24:58.403 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:24:58.410 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:24:58.410 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:24:58.448 | ERROR    | __main__:main:136 - Error in downloading the file
+2024-10-24 18:24:58.448 | ERROR    | __main__:main:137 - 'Index' object is not callable
+2024-10-24 18:25:14.341 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 18:25:14.341 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:25:14.349 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:25:14.349 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:25:14.385 | ERROR    | __main__:main:136 - Error in downloading the file
+2024-10-24 18:25:14.385 | ERROR    | __main__:main:137 - 'Index' object is not callable
+2024-10-24 18:26:54.042 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 18:26:54.042 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:26:54.049 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:26:54.049 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:27:11.362 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 18:27:11.363 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:27:11.369 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:27:11.369 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:27:35.791 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 18:27:35.791 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:27:35.798 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:27:35.798 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:34:30.041 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 18:34:30.041 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:34:30.049 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:34:30.049 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:35:23.651 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 18:35:23.651 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:35:23.657 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:35:23.658 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:37:51.393 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 18:37:51.393 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:37:51.399 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:37:51.400 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:40:44.720 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 18:40:44.720 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:40:44.727 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:40:44.727 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:41:34.041 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 18:41:34.041 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:41:34.047 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:41:34.048 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:41:34.182 | INFO     | __main__:main:92 - Transforming
+2024-10-24 18:41:34.182 | INFO     | __main__:main:96 - Transform - Done
+2024-10-24 18:41:34.183 | INFO     | __main__:main:102 - Time Stats:
+2024-10-24 18:41:34.183 | INFO     | __main__:main:103 - Extract - 0.00 sec.
+2024-10-24 18:41:34.183 | INFO     | __main__:main:104 - Transform - 0.00 sec.
+2024-10-24 18:41:34.183 | ERROR    | __main__:main:114 - Error in downloading the file
+2024-10-24 18:41:34.184 | ERROR    | __main__:main:115 - cannot access local variable 'status_response' where it is not associated with a value
+2024-10-24 18:42:06.989 | INFO     | __main__:main:70 - Loading file 1 from directory
+2024-10-24 18:42:06.989 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:42:06.995 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:42:06.996 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:42:07.124 | INFO     | __main__:main:92 - Transforming
+2024-10-24 18:42:07.125 | INFO     | __main__:main:96 - Transform - Done
+2024-10-24 18:42:07.125 | INFO     | __main__:main:102 - Time Stats:
+2024-10-24 18:42:07.125 | INFO     | __main__:main:103 - Extract - 0.01 sec.
+2024-10-24 18:42:07.125 | INFO     | __main__:main:104 - Transform - 0.00 sec.
+2024-10-24 18:42:07.125 | INFO     | __main__:main:111 - Status Update Response : 
+2024-10-24 18:42:07.126 | INFO     | __main__:main:70 - Loading file 2 from directory
+2024-10-24 18:42:07.126 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:42:07.128 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:42:07.129 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:42:07.149 | ERROR    | __main__:main:114 - Error in downloading the file
+2024-10-24 18:42:07.149 | ERROR    | __main__:main:115 - Empty table name specified
+2024-10-24 18:46:43.543 | INFO     | __main__:main:70 - Loading file Borrower_Data - Sheet1.csv from directory
+2024-10-24 18:46:43.543 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:46:43.549 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:46:43.550 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:46:43.681 | INFO     | __main__:main:92 - Transforming
+2024-10-24 18:46:43.682 | INFO     | __main__:main:96 - Transform - Done
+2024-10-24 18:46:43.682 | INFO     | __main__:main:102 - Time Stats:
+2024-10-24 18:46:43.682 | INFO     | __main__:main:103 - Extract - 0.00 sec.
+2024-10-24 18:46:43.682 | INFO     | __main__:main:104 - Transform - 0.00 sec.
+2024-10-24 18:46:43.683 | INFO     | __main__:main:111 - Status Update Response : 
+2024-10-24 18:46:43.683 | INFO     | __main__:main:70 - Loading file Loan_Data - Sheet1.csv from directory
+2024-10-24 18:46:43.683 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:46:43.685 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:46:43.685 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:46:43.710 | ERROR    | __main__:main:114 - Error in downloading the file
+2024-10-24 18:46:43.710 | ERROR    | __main__:main:115 - Empty table name specified
+2024-10-24 18:49:37.086 | INFO     | __main__:main:70 - Loading file Loan_Data - Sheet1.csv from directory
+2024-10-24 18:49:37.086 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:49:37.093 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:49:37.093 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:49:59.056 | INFO     | __main__:main:70 - Loading file Loan_Data - Sheet1.csv from directory
+2024-10-24 18:49:59.056 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:49:59.062 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:49:59.063 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:50:21.728 | INFO     | __main__:main:70 - Loading file Loan_Data - Sheet1.csv from directory
+2024-10-24 18:50:21.729 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:50:21.734 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:50:21.735 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:50:38.545 | INFO     | __main__:main:70 - Loading file Loan_Data - Sheet1.csv from directory
+2024-10-24 18:50:38.546 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:50:38.552 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:50:38.553 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:50:47.344 | INFO     | __main__:main:70 - Loading file Loan_Data - Sheet1.csv from directory
+2024-10-24 18:50:47.345 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:50:47.351 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:50:47.351 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:50:47.476 | INFO     | __main__:main:92 - Transforming
+2024-10-24 18:50:47.477 | INFO     | __main__:main:96 - Transform - Done
+2024-10-24 18:50:47.477 | INFO     | __main__:main:102 - Time Stats:
+2024-10-24 18:50:47.477 | INFO     | __main__:main:103 - Extract - 0.01 sec.
+2024-10-24 18:50:47.477 | INFO     | __main__:main:104 - Transform - 0.00 sec.
+2024-10-24 18:50:47.478 | INFO     | __main__:main:111 - Status Update Response : 
+2024-10-24 18:50:47.478 | INFO     | __main__:main:70 - Loading file Repayment_Data - Sheet1.csv from directory
+2024-10-24 18:50:47.478 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:50:47.481 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:50:47.481 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:50:47.511 | ERROR    | __main__:main:114 - Error in downloading the file
+2024-10-24 18:50:47.512 | ERROR    | __main__:main:115 - Empty table name specified
+2024-10-24 18:50:59.187 | INFO     | __main__:main:70 - Loading file Loan_Data - Sheet1.csv from directory
+2024-10-24 18:50:59.187 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:50:59.193 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:50:59.194 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:50:59.309 | INFO     | __main__:main:92 - Transforming
+2024-10-24 18:50:59.309 | INFO     | __main__:main:96 - Transform - Done
+2024-10-24 18:50:59.309 | INFO     | __main__:main:102 - Time Stats:
+2024-10-24 18:50:59.309 | INFO     | __main__:main:103 - Extract - 0.00 sec.
+2024-10-24 18:50:59.310 | INFO     | __main__:main:104 - Transform - 0.00 sec.
+2024-10-24 18:50:59.310 | INFO     | __main__:main:111 - Status Update Response : 
+2024-10-24 18:51:43.303 | INFO     | __main__:main:70 - Loading file Repayment_Data - Sheet1.csv from directory
+2024-10-24 18:51:43.303 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:51:43.309 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:51:43.309 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:53:21.777 | INFO     | __main__:main:70 - Loading file Repayment_Data - Sheet1.csv from directory
+2024-10-24 18:53:21.777 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:53:21.783 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:53:21.784 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:53:39.389 | INFO     | __main__:main:70 - Loading file Repayment_Data - Sheet1.csv from directory
+2024-10-24 18:53:39.390 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:53:39.396 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:53:39.397 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:53:39.525 | INFO     | __main__:main:92 - Transforming
+2024-10-24 18:53:39.526 | INFO     | __main__:main:96 - Transform - Done
+2024-10-24 18:53:39.526 | INFO     | __main__:main:102 - Time Stats:
+2024-10-24 18:53:39.526 | INFO     | __main__:main:103 - Extract - 0.01 sec.
+2024-10-24 18:53:39.526 | INFO     | __main__:main:104 - Transform - 0.00 sec.
+2024-10-24 18:53:39.527 | INFO     | __main__:main:111 - Status Update Response : 
+2024-10-24 18:53:39.527 | INFO     | __main__:main:70 - Loading file Schedule_Data.xlsx - Sheet1.csv from directory
+2024-10-24 18:53:39.527 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:53:39.530 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:53:39.530 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:53:39.536 | ERROR    | __main__:main:114 - Error in downloading the file
+2024-10-24 18:53:39.536 | ERROR    | __main__:main:115 - Empty table name specified
+2024-10-24 18:53:57.614 | INFO     | __main__:main:70 - Loading file Repayment_Data - Sheet1.csv from directory
+2024-10-24 18:53:57.615 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:53:57.621 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:53:57.621 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:53:57.748 | INFO     | __main__:main:92 - Transforming
+2024-10-24 18:53:57.748 | INFO     | __main__:main:96 - Transform - Done
+2024-10-24 18:53:57.748 | INFO     | __main__:main:102 - Time Stats:
+2024-10-24 18:53:57.748 | INFO     | __main__:main:103 - Extract - 0.01 sec.
+2024-10-24 18:53:57.749 | INFO     | __main__:main:104 - Transform - 0.00 sec.
+2024-10-24 18:53:57.749 | INFO     | __main__:main:111 - Status Update Response : 
+2024-10-24 18:55:49.355 | INFO     | __main__:main:70 - Loading file Schedule_Data.xlsx - Sheet1.csv from directory
+2024-10-24 18:55:49.356 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:55:49.362 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:55:49.362 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:56:27.948 | INFO     | __main__:main:70 - Loading file Schedule_Data.xlsx - Sheet1.csv from directory
+2024-10-24 18:56:27.949 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:56:27.954 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:56:27.955 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:56:28.084 | INFO     | __main__:main:92 - Transforming
+2024-10-24 18:56:28.084 | INFO     | __main__:main:96 - Transform - Done
+2024-10-24 18:56:28.084 | INFO     | __main__:main:102 - Time Stats:
+2024-10-24 18:56:28.085 | INFO     | __main__:main:103 - Extract - 0.01 sec.
+2024-10-24 18:56:28.085 | INFO     | __main__:main:104 - Transform - 0.00 sec.
+2024-10-24 18:56:28.085 | INFO     | __main__:main:111 - Status Update Response : 
+2024-10-24 18:56:54.279 | INFO     | __main__:main:70 - Loading file Borrower_Data - Sheet1.csv from directory
+2024-10-24 18:56:54.280 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:56:54.286 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:56:54.286 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:56:54.404 | INFO     | __main__:main:92 - Transforming
+2024-10-24 18:56:54.404 | INFO     | __main__:main:96 - Transform - Done
+2024-10-24 18:56:54.405 | INFO     | __main__:main:102 - Time Stats:
+2024-10-24 18:56:54.405 | INFO     | __main__:main:103 - Extract - 0.01 sec.
+2024-10-24 18:56:54.405 | INFO     | __main__:main:104 - Transform - 0.00 sec.
+2024-10-24 18:56:54.405 | INFO     | __main__:main:111 - Status Update Response : 
+2024-10-24 18:56:54.406 | INFO     | __main__:main:70 - Loading file Loan_Data - Sheet1.csv from directory
+2024-10-24 18:56:54.406 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:56:54.408 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:56:54.408 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:56:54.475 | INFO     | __main__:main:92 - Transforming
+2024-10-24 18:56:54.476 | INFO     | __main__:main:96 - Transform - Done
+2024-10-24 18:56:54.476 | INFO     | __main__:main:102 - Time Stats:
+2024-10-24 18:56:54.476 | INFO     | __main__:main:103 - Extract - 0.00 sec.
+2024-10-24 18:56:54.476 | INFO     | __main__:main:104 - Transform - 0.00 sec.
+2024-10-24 18:56:54.477 | INFO     | __main__:main:111 - Status Update Response : 
+2024-10-24 18:56:54.477 | INFO     | __main__:main:70 - Loading file Repayment_Data - Sheet1.csv from directory
+2024-10-24 18:56:54.477 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:56:54.479 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:56:54.479 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:56:54.566 | INFO     | __main__:main:92 - Transforming
+2024-10-24 18:56:54.566 | INFO     | __main__:main:96 - Transform - Done
+2024-10-24 18:56:54.567 | INFO     | __main__:main:102 - Time Stats:
+2024-10-24 18:56:54.567 | INFO     | __main__:main:103 - Extract - 0.00 sec.
+2024-10-24 18:56:54.567 | INFO     | __main__:main:104 - Transform - 0.00 sec.
+2024-10-24 18:56:54.567 | INFO     | __main__:main:111 - Status Update Response : 
+2024-10-24 18:56:54.568 | INFO     | __main__:main:70 - Loading file Schedule_Data.xlsx - Sheet1.csv from directory
+2024-10-24 18:56:54.568 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:56:54.570 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:56:54.570 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:56:54.654 | INFO     | __main__:main:92 - Transforming
+2024-10-24 18:56:54.654 | INFO     | __main__:main:96 - Transform - Done
+2024-10-24 18:56:54.654 | INFO     | __main__:main:102 - Time Stats:
+2024-10-24 18:56:54.654 | INFO     | __main__:main:103 - Extract - 0.00 sec.
+2024-10-24 18:56:54.655 | INFO     | __main__:main:104 - Transform - 0.00 sec.
+2024-10-24 18:56:54.655 | INFO     | __main__:main:111 - Status Update Response : 
+2024-10-24 18:59:23.301 | INFO     | __main__:main:70 - Loading file ##Borrower_Data - Sheet1.csv## from directory
+2024-10-24 18:59:23.301 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:59:23.307 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:59:23.308 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:59:23.436 | INFO     | __main__:main:92 - Transforming
+2024-10-24 18:59:23.437 | INFO     | __main__:main:96 - Transform - Done
+2024-10-24 18:59:23.437 | INFO     | __main__:main:102 - Time Stats:
+2024-10-24 18:59:23.437 | INFO     | __main__:main:103 - Extract - 0.00 sec.
+2024-10-24 18:59:23.438 | INFO     | __main__:main:104 - Transform - 0.00 sec.
+2024-10-24 18:59:23.438 | INFO     | __main__:main:111 - Iteration completed.
+2024-10-24 18:59:23.438 | INFO     | __main__:main:112 - ------------
+2024-10-24 18:59:23.439 | INFO     | __main__:main:70 - Loading file ##Loan_Data - Sheet1.csv## from directory
+2024-10-24 18:59:23.439 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:59:23.442 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:59:23.442 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:59:23.561 | INFO     | __main__:main:92 - Transforming
+2024-10-24 18:59:23.561 | INFO     | __main__:main:96 - Transform - Done
+2024-10-24 18:59:23.562 | INFO     | __main__:main:102 - Time Stats:
+2024-10-24 18:59:23.562 | INFO     | __main__:main:103 - Extract - 0.00 sec.
+2024-10-24 18:59:23.562 | INFO     | __main__:main:104 - Transform - 0.00 sec.
+2024-10-24 18:59:23.563 | INFO     | __main__:main:111 - Iteration completed.
+2024-10-24 18:59:23.563 | INFO     | __main__:main:112 - ------------
+2024-10-24 18:59:23.563 | INFO     | __main__:main:70 - Loading file ##Repayment_Data - Sheet1.csv## from directory
+2024-10-24 18:59:23.563 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:59:23.566 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:59:23.566 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:59:23.633 | INFO     | __main__:main:92 - Transforming
+2024-10-24 18:59:23.633 | INFO     | __main__:main:96 - Transform - Done
+2024-10-24 18:59:23.633 | INFO     | __main__:main:102 - Time Stats:
+2024-10-24 18:59:23.633 | INFO     | __main__:main:103 - Extract - 0.00 sec.
+2024-10-24 18:59:23.634 | INFO     | __main__:main:104 - Transform - 0.00 sec.
+2024-10-24 18:59:23.634 | INFO     | __main__:main:111 - Iteration completed.
+2024-10-24 18:59:23.634 | INFO     | __main__:main:112 - ------------
+2024-10-24 18:59:23.634 | INFO     | __main__:main:70 - Loading file ##Schedule_Data.xlsx - Sheet1.csv## from directory
+2024-10-24 18:59:23.634 | INFO     | __main__:main:76 - Extracting
+2024-10-24 18:59:23.636 | INFO     | __main__:main:80 - Extract - Done
+2024-10-24 18:59:23.637 | INFO     | __main__:main:84 - Loading
+2024-10-24 18:59:23.702 | INFO     | __main__:main:92 - Transforming
+2024-10-24 18:59:23.702 | INFO     | __main__:main:96 - Transform - Done
+2024-10-24 18:59:23.702 | INFO     | __main__:main:102 - Time Stats:
+2024-10-24 18:59:23.702 | INFO     | __main__:main:103 - Extract - 0.00 sec.
+2024-10-24 18:59:23.703 | INFO     | __main__:main:104 - Transform - 0.00 sec.
+2024-10-24 18:59:23.703 | INFO     | __main__:main:111 - Iteration completed.
+2024-10-24 18:59:23.703 | INFO     | __main__:main:112 - ------------
+2024-10-24 19:02:52.097 | INFO     | __main__:main:61 - Loading file ##Borrower_Data - Sheet1.csv## from directory
+2024-10-24 19:02:52.097 | INFO     | __main__:main:64 - Extracting
+2024-10-24 19:02:52.103 | INFO     | __main__:main:68 - Extract - Done
+2024-10-24 19:02:52.104 | INFO     | __main__:main:71 - Loading
+2024-10-24 19:02:52.232 | INFO     | __main__:main:76 - Transforming
+2024-10-24 19:02:52.232 | INFO     | __main__:main:81 - Transform - Done
+2024-10-24 19:02:52.233 | INFO     | __main__:main:84 - Time Stats:
+2024-10-24 19:02:52.233 | INFO     | __main__:main:85 - Extract - 0.00 sec.
+2024-10-24 19:02:52.233 | INFO     | __main__:main:86 - Transform - 0.00 sec.
+2024-10-24 19:02:52.233 | INFO     | __main__:main:91 - Iteration completed.
+2024-10-24 19:02:52.234 | INFO     | __main__:main:92 - ------------
+2024-10-24 19:02:52.234 | INFO     | __main__:main:61 - Loading file ##Loan_Data - Sheet1.csv## from directory
+2024-10-24 19:02:52.234 | INFO     | __main__:main:64 - Extracting
+2024-10-24 19:02:52.236 | INFO     | __main__:main:68 - Extract - Done
+2024-10-24 19:02:52.237 | INFO     | __main__:main:71 - Loading
+2024-10-24 19:02:52.331 | INFO     | __main__:main:76 - Transforming
+2024-10-24 19:02:52.331 | INFO     | __main__:main:81 - Transform - Done
+2024-10-24 19:02:52.332 | INFO     | __main__:main:84 - Time Stats:
+2024-10-24 19:02:52.332 | INFO     | __main__:main:85 - Extract - 0.00 sec.
+2024-10-24 19:02:52.332 | INFO     | __main__:main:86 - Transform - 0.00 sec.
+2024-10-24 19:02:52.332 | INFO     | __main__:main:91 - Iteration completed.
+2024-10-24 19:02:52.333 | INFO     | __main__:main:92 - ------------
+2024-10-24 19:02:52.333 | INFO     | __main__:main:61 - Loading file ##Repayment_Data - Sheet1.csv## from directory
+2024-10-24 19:02:52.333 | INFO     | __main__:main:64 - Extracting
+2024-10-24 19:02:52.335 | INFO     | __main__:main:68 - Extract - Done
+2024-10-24 19:02:52.335 | INFO     | __main__:main:71 - Loading
+2024-10-24 19:02:52.438 | INFO     | __main__:main:76 - Transforming
+2024-10-24 19:02:52.438 | INFO     | __main__:main:81 - Transform - Done
+2024-10-24 19:02:52.438 | INFO     | __main__:main:84 - Time Stats:
+2024-10-24 19:02:52.439 | INFO     | __main__:main:85 - Extract - 0.00 sec.
+2024-10-24 19:02:52.439 | INFO     | __main__:main:86 - Transform - 0.00 sec.
+2024-10-24 19:02:52.439 | INFO     | __main__:main:91 - Iteration completed.
+2024-10-24 19:02:52.439 | INFO     | __main__:main:92 - ------------
+2024-10-24 19:02:52.439 | INFO     | __main__:main:61 - Loading file ##Schedule_Data.xlsx - Sheet1.csv## from directory
+2024-10-24 19:02:52.440 | INFO     | __main__:main:64 - Extracting
+2024-10-24 19:02:52.442 | INFO     | __main__:main:68 - Extract - Done
+2024-10-24 19:02:52.442 | INFO     | __main__:main:71 - Loading
+2024-10-24 19:02:52.539 | INFO     | __main__:main:76 - Transforming
+2024-10-24 19:02:52.539 | INFO     | __main__:main:81 - Transform - Done
+2024-10-24 19:02:52.540 | INFO     | __main__:main:84 - Time Stats:
+2024-10-24 19:02:52.540 | INFO     | __main__:main:85 - Extract - 0.00 sec.
+2024-10-24 19:02:52.540 | INFO     | __main__:main:86 - Transform - 0.00 sec.
+2024-10-24 19:02:52.540 | INFO     | __main__:main:91 - Iteration completed.
+2024-10-24 19:02:52.540 | INFO     | __main__:main:92 - ------------
+2024-10-24 19:03:27.591 | INFO     | __main__:main:61 - Loading file ##Borrower_Data - Sheet1.csv## from directory
+2024-10-24 19:03:27.591 | INFO     | __main__:main:64 - Extracting
+2024-10-24 19:03:27.597 | INFO     | __main__:main:68 - Extract - Done
+2024-10-24 19:03:27.597 | INFO     | __main__:main:71 - Loading
+2024-10-24 19:03:27.714 | INFO     | __main__:main:76 - Transforming
+2024-10-24 19:03:27.715 | INFO     | __main__:main:81 - Transform - Done
+2024-10-24 19:03:27.715 | INFO     | __main__:main:84 - Time Stats:
+2024-10-24 19:03:27.715 | INFO     | __main__:main:85 - Extract - 0.01 sec.
+2024-10-24 19:03:27.715 | INFO     | __main__:main:86 - Transform - 0.00 sec.
+2024-10-24 19:03:27.715 | INFO     | __main__:main:91 - Iteration completed.
+2024-10-24 19:03:27.716 | INFO     | __main__:main:92 - ------------
+2024-10-24 19:03:27.716 | INFO     | __main__:main:61 - Loading file ##Loan_Data - Sheet1.csv## from directory
+2024-10-24 19:03:27.717 | INFO     | __main__:main:64 - Extracting
+2024-10-24 19:03:27.719 | INFO     | __main__:main:68 - Extract - Done
+2024-10-24 19:03:27.719 | INFO     | __main__:main:71 - Loading
+2024-10-24 19:03:27.803 | INFO     | __main__:main:76 - Transforming
+2024-10-24 19:03:27.803 | INFO     | __main__:main:81 - Transform - Done
+2024-10-24 19:03:27.804 | INFO     | __main__:main:84 - Time Stats:
+2024-10-24 19:03:27.804 | INFO     | __main__:main:85 - Extract - 0.00 sec.
+2024-10-24 19:03:27.804 | INFO     | __main__:main:86 - Transform - 0.00 sec.
+2024-10-24 19:03:27.804 | INFO     | __main__:main:91 - Iteration completed.
+2024-10-24 19:03:27.805 | INFO     | __main__:main:92 - ------------
+2024-10-24 19:03:27.805 | INFO     | __main__:main:61 - Loading file ##Repayment_Data - Sheet1.csv## from directory
+2024-10-24 19:03:27.805 | INFO     | __main__:main:64 - Extracting
+2024-10-24 19:03:27.807 | INFO     | __main__:main:68 - Extract - Done
+2024-10-24 19:03:27.807 | INFO     | __main__:main:71 - Loading
+2024-10-24 19:03:27.889 | INFO     | __main__:main:76 - Transforming
+2024-10-24 19:03:27.890 | INFO     | __main__:main:81 - Transform - Done
+2024-10-24 19:03:27.890 | INFO     | __main__:main:84 - Time Stats:
+2024-10-24 19:03:27.890 | INFO     | __main__:main:85 - Extract - 0.00 sec.
+2024-10-24 19:03:27.891 | INFO     | __main__:main:86 - Transform - 0.00 sec.
+2024-10-24 19:03:27.891 | INFO     | __main__:main:91 - Iteration completed.
+2024-10-24 19:03:27.891 | INFO     | __main__:main:92 - ------------
+2024-10-24 19:03:27.891 | INFO     | __main__:main:61 - Loading file ##Schedule_Data.xlsx - Sheet1.csv## from directory
+2024-10-24 19:03:27.891 | INFO     | __main__:main:64 - Extracting
+2024-10-24 19:03:27.893 | INFO     | __main__:main:68 - Extract - Done
+2024-10-24 19:03:27.894 | INFO     | __main__:main:71 - Loading
+2024-10-24 19:03:27.977 | INFO     | __main__:main:76 - Transforming
+2024-10-24 19:03:27.977 | INFO     | __main__:main:81 - Transform - Done
+2024-10-24 19:03:27.978 | INFO     | __main__:main:84 - Time Stats:
+2024-10-24 19:03:27.978 | INFO     | __main__:main:85 - Extract - 0.00 sec.
+2024-10-24 19:03:27.978 | INFO     | __main__:main:86 - Transform - 0.00 sec.
+2024-10-24 19:03:27.978 | INFO     | __main__:main:91 - Iteration completed.
+2024-10-24 19:03:27.979 | INFO     | __main__:main:92 - ------------
+2024-10-25 09:57:31.412 | INFO     | __main__:main:55 - Transforming
+2024-10-25 11:52:22.257 | INFO     | __main__:main:55 - Transforming
+2024-10-25 11:54:16.643 | INFO     | __main__:main:55 - Transforming
+2024-10-25 11:55:43.759 | INFO     | __main__:main:55 - Transforming
+2024-10-25 12:02:33.229 | INFO     | __main__:main:55 - Transforming
+2024-10-25 12:10:05.319 | INFO     | __main__:main:55 - Transforming
+2024-10-25 12:12:20.776 | INFO     | __main__:main:55 - Transforming
+2024-10-25 12:23:08.947 | INFO     | __main__:main:55 - Transforming
+2024-10-25 12:23:09.002 | ERROR    | transform:transform:76 - strptime() argument 1 must be str, not Series
+2024-10-25 12:24:24.833 | INFO     | __main__:main:55 - Transforming
+2024-10-25 12:28:55.865 | INFO     | __main__:main:55 - Transforming
+2024-10-25 12:29:54.384 | INFO     | __main__:main:55 - Transforming
+2024-10-25 12:29:54.444 | ERROR    | transform:transform:76 - strptime() argument 1 must be str, not Series
+2024-10-25 12:34:00.363 | INFO     | __main__:main:55 - Transforming
+2024-10-25 12:34:00.413 | ERROR    | transform:transform:79 - type object 'datetime.datetime' has no attribute 'datetime'
+2024-10-25 12:34:42.883 | INFO     | __main__:main:55 - Transforming
+2024-10-25 12:34:42.941 | ERROR    | transform:transform:79 - time data '01/27/2021' does not match format '%b %d, %Y'
+2024-10-25 12:35:21.369 | INFO     | __main__:main:55 - Transforming
+2024-10-25 12:37:59.152 | INFO     | __main__:main:55 - Transforming
+2024-10-25 12:37:59.240 | ERROR    | transform:transform:78 - 'maturity_date'
+2024-10-25 12:38:39.819 | INFO     | __main__:main:55 - Transforming
+2024-10-25 12:38:39.882 | ERROR    | transform:transform:78 - day is out of range for month
+2024-10-25 12:39:36.882 | INFO     | __main__:main:55 - Transforming
+2024-10-25 12:39:36.936 | ERROR    | transform:transform:78 - day is out of range for month
+2024-10-25 12:39:47.057 | INFO     | __main__:main:55 - Transforming
+2024-10-25 12:40:09.320 | INFO     | __main__:main:55 - Transforming
+2024-10-25 12:40:09.374 | ERROR    | transform:transform:78 - day is out of range for month
+2024-10-25 12:42:57.585 | INFO     | __main__:main:55 - Transforming
+2024-10-25 12:42:57.644 | ERROR    | transform:transform:78 - day is out of range for month
+2024-10-25 12:45:00.547 | INFO     | __main__:main:55 - Transforming
+2024-10-25 12:45:00.609 | ERROR    | transform:transform:78 - strftime() takes at most 1 argument (2 given)
+2024-10-25 12:46:48.516 | INFO     | __main__:main:55 - Transforming
+2024-10-25 12:46:48.568 | ERROR    | transform:transform:80 - 'DataFrame' object has no attribute 'to_datetime'
+2024-10-25 12:47:09.948 | INFO     | __main__:main:55 - Transforming
+2024-10-25 12:48:40.396 | INFO     | __main__:main:55 - Transforming
+2024-10-25 13:20:42.081 | INFO     | __main__:main:55 - Transforming
+2024-10-25 13:32:55.099 | INFO     | __main__:main:55 - Transforming
+2024-10-25 13:34:55.587 | INFO     | __main__:main:55 - Transforming
+2024-10-25 17:09:47.214 | INFO     | __main__:main:55 - Transforming
+2024-10-25 17:13:06.518 | INFO     | __main__:main:55 - Transforming
+2024-10-25 17:17:52.003 | INFO     | __main__:main:55 - Transforming
+2024-10-25 17:17:52.055 | ERROR    | transform:transform:104 - cannot access local variable 'payment_schedule_tbl_df' where it is not associated with a value
+2024-10-25 17:18:24.202 | INFO     | __main__:main:55 - Transforming
+2024-10-25 17:19:08.512 | INFO     | __main__:main:55 - Transforming
+2024-10-25 17:19:51.267 | INFO     | __main__:main:55 - Transforming
+2024-10-25 17:23:00.404 | INFO     | __main__:main:55 - Transforming
+2024-10-25 17:24:38.993 | INFO     | __main__:main:55 - Transforming
+2024-10-25 17:33:03.616 | INFO     | __main__:main:55 - Transforming
+2024-10-25 17:34:54.374 | INFO     | __main__:main:55 - Transforming
+2024-10-25 17:35:35.279 | INFO     | __main__:main:55 - Transforming
+2024-10-25 17:35:35.372 | ERROR    | transform:transform:107 - data type 'date[ns]' not understood
+2024-10-25 17:35:46.937 | INFO     | __main__:main:55 - Transforming
+2024-10-25 17:35:46.991 | ERROR    | transform:transform:107 - data type 'date]' not understood
+2024-10-25 17:39:58.154 | INFO     | __main__:main:55 - Transforming
+2024-10-25 17:40:47.324 | INFO     | __main__:main:55 - Transforming
+2024-10-25 17:50:38.082 | INFO     | __main__:main:55 - Transforming
+2024-10-25 17:50:38.159 | ERROR    | transform:transform:110 - Can only use .dt accessor with datetimelike values
+2024-10-25 17:54:28.211 | INFO     | __main__:main:55 - Transforming
+2024-10-25 17:55:16.298 | INFO     | __main__:main:55 - Transforming
+2024-10-25 17:57:21.163 | INFO     | __main__:main:55 - Transforming
+2024-10-25 17:57:21.216 | ERROR    | transform:transform:113 - time data "02/27/2021" doesn't match format "%Y-%m-%d", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2024-10-25 17:59:11.696 | INFO     | __main__:main:55 - Transforming
+2024-10-25 18:01:29.337 | INFO     | __main__:main:55 - Transforming
+2024-10-25 18:11:37.407 | INFO     | __main__:main:55 - Transforming
+2024-10-25 18:11:37.459 | ERROR    | transform:transform:142 - could not convert string to float: '03/31/2021'
+2024-10-25 18:16:14.918 | INFO     | __main__:main:55 - Transforming
+2024-10-25 18:16:14.973 | ERROR    | transform:transform:142 - strptime() argument 1 must be str, not float
+2024-10-25 18:18:04.134 | INFO     | __main__:main:55 - Transforming
+2024-10-25 18:18:04.222 | ERROR    | transform:transform:142 - time data '100790.3333' does not match format '%m/%d/%Y'
+2024-10-25 18:20:18.461 | INFO     | __main__:main:55 - Transforming
+2024-10-25 18:21:54.493 | INFO     | __main__:main:55 - Transforming
+2024-10-25 18:21:54.579 | ERROR    | transform:transform:148 - time data '100790.3333' does not match format '%m/%d/%Y'
+2024-10-25 18:23:35.275 | INFO     | __main__:main:55 - Transforming
+2024-10-25 18:23:35.343 | ERROR    | transform:transform:147 - "['Date_paid'] not found in axis"
+2024-10-25 18:24:00.018 | INFO     | __main__:main:55 - Transforming
+2024-10-25 18:24:00.076 | ERROR    | transform:transform:147 - "['Date_paid'] not found in axis"
+2024-10-25 18:24:45.932 | INFO     | __main__:main:55 - Transforming
+2024-10-25 18:25:11.476 | INFO     | __main__:main:55 - Transforming
+2024-10-25 18:26:16.484 | INFO     | __main__:main:55 - Transforming
+2024-10-25 18:26:52.668 | INFO     | __main__:main:55 - Transforming
+2024-10-25 18:27:17.619 | INFO     | __main__:main:55 - Transforming
+2024-10-25 18:27:58.473 | INFO     | __main__:main:55 - Transforming
+2024-10-25 18:28:28.013 | INFO     | __main__:main:55 - Transforming
+2024-10-25 18:59:57.941 | INFO     | __main__:main:55 - Transforming
+2024-10-25 19:04:26.582 | INFO     | __main__:main:55 - Transforming
+2024-10-26 09:47:38.828 | INFO     | __main__:main:55 - Transforming
+2024-10-26 09:47:38.899 | ERROR    | transform:transform:154 - (pymysql.err.ProgrammingError) (1146, "Table 'autocheck.payment_schedule_dim' doesn't exist")
+[SQL: SELECT * FROM payment_schedule_dim;]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-10-26 09:48:21.882 | INFO     | __main__:main:55 - Transforming
+2024-10-26 11:46:43.694 | INFO     | __main__:main:55 - Transforming
+2024-10-26 11:46:43.737 | ERROR    | transform:transform:168 - (pymysql.err.ProgrammingError) (1146, "Table 'autocheck.borrower_dim' doesn't exist")
+[SQL: SELECT bd.borrower_id,ld.loan_id,psd.schedule_id,lpd.payment_id,psd.expected_payment_date,lpd.date_paid,DATEDIFF(lpd.date_paid, psd.expected_payment_date) AS Par_Days,psd.expected_payment_amount,lpd.amount_paid FROM  borrower_dim AS bd  LEFT JOIN loan_dim AS ld ON bd.borrower_id = ld.borrower_id     LEFT JOIN payment_schedule_dim AS psd ON psd.loan_id = ld.loan_id     LEFT JOIN loan_payment_dim AS lpd ON lpd.id = psd.id ORDER BY psd.expected_payment_date ASC , lpd.date_paid ASC]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-10-26 11:48:06.264 | INFO     | __main__:main:55 - Transforming
+2024-10-26 11:50:12.665 | INFO     | __main__:main:55 - Transforming
+2024-10-26 11:58:54.130 | INFO     | __main__:main:55 - Transforming
+2024-10-26 11:58:54.219 | ERROR    | transform:transform:168 - Table 'loan_fact' already exists.
+2024-10-26 11:59:16.778 | INFO     | __main__:main:55 - Transforming
+2024-10-26 12:22:42.964 | INFO     | __main__:main:55 - Transforming
+2024-10-26 13:38:38.704 | INFO     | __main__:main:55 - Transforming
+2024-10-26 14:55:55.414 | INFO     | __main__:main:55 - Transforming
+2024-10-26 14:58:14.391 | INFO     | __main__:main:55 - Transforming
+2024-10-26 15:15:16.198 | INFO     | __main__:main:53 - Transforming
+2024-10-26 15:16:05.663 | INFO     | __main__:main:53 - Transforming
+2024-10-26 15:26:17.937 | INFO     | __main__:main:53 - Transforming
+2024-10-26 15:53:44.226 | INFO     | __main__:main:53 - Transforming
+2024-10-26 15:53:44.259 | INFO     | transform:transform:154 - Transforming loan table start.
+2024-10-26 15:53:44.332 | INFO     | transform:transform:157 - Transforming loan table end.
+2024-10-26 15:59:28.068 | INFO     | __main__:main:53 - Transforming
+2024-10-26 15:59:28.100 | INFO     | transform:transform:197 - Transforming loan table data start.
+2024-10-26 15:59:28.170 | INFO     | transform:transform:200 - Transforming loan table data end.
+2024-10-26 15:59:28.170 | INFO     | transform:transform:203 - Transforming payment schedule data start.
+2024-10-26 15:59:28.242 | INFO     | transform:transform:206 - Transforming payment schedule data end.
+2024-10-26 16:02:54.336 | INFO     | __main__:main:53 - Transforming
+2024-10-26 16:02:54.370 | INFO     | transform:transform:240 - Transforming loan payment data start.
+2024-10-26 16:02:54.441 | INFO     | transform:transform:243 - Transforming loan payment data end.
+2024-10-26 16:02:54.442 | INFO     | transform:transform:246 - Transforming payment schedule data start.
+2024-10-26 16:02:54.506 | INFO     | transform:transform:249 - Transforming payment schedule data end.
+2024-10-26 16:02:54.507 | INFO     | transform:transform:252 - Transforming loan table data start.
+2024-10-26 16:02:54.577 | ERROR    | transform:transform:302 - name 'payment_schedule_tbl_df' is not defined
+2024-10-26 16:03:22.333 | INFO     | __main__:main:53 - Transforming
+2024-10-26 16:03:22.365 | INFO     | transform:transform:240 - Transforming loan payment data start.
+2024-10-26 16:03:22.456 | INFO     | transform:transform:243 - Transforming loan payment data end.
+2024-10-26 16:03:22.456 | INFO     | transform:transform:246 - Transforming payment schedule data start.
+2024-10-26 16:03:22.531 | INFO     | transform:transform:249 - Transforming payment schedule data end.
+2024-10-26 16:03:22.532 | INFO     | transform:transform:252 - Transforming loan table data start.
+2024-10-26 16:03:22.595 | INFO     | transform:transform:255 - Transforming loan table data end.
+2024-10-26 16:05:49.819 | INFO     | __main__:main:53 - Transforming
+2024-10-26 16:05:49.851 | INFO     | transform:transform:277 - Transforming loan payment data start.
+2024-10-26 16:05:49.926 | INFO     | transform:transform:280 - Transforming loan payment data end.
+2024-10-26 16:05:49.926 | INFO     | transform:transform:283 - Transforming payment schedule data start.
+2024-10-26 16:05:49.993 | INFO     | transform:transform:286 - Transforming payment schedule data end.
+2024-10-26 16:05:49.993 | INFO     | transform:transform:289 - Transforming loan table data start.
+2024-10-26 16:05:50.048 | INFO     | transform:transform:292 - Transforming loan table data end.
+2024-10-26 16:05:50.049 | INFO     | transform:transform:295 - Transforming borrower table data start.
+2024-10-26 16:05:50.110 | INFO     | transform:transform:298 - Transforming borrower table data end.
+2024-10-26 16:09:04.007 | INFO     | __main__:main:53 - Transforming
+2024-10-26 16:09:04.042 | INFO     | transform:transform:275 - Transforming loan payment data start.
+2024-10-26 16:09:04.114 | INFO     | transform:transform:278 - Transforming loan payment data end.
+2024-10-26 16:09:04.114 | INFO     | transform:transform:281 - Transforming payment schedule data start.
+2024-10-26 16:09:04.176 | INFO     | transform:transform:284 - Transforming payment schedule data end.
+2024-10-26 16:09:04.177 | INFO     | transform:transform:287 - Transforming loan table data start.
+2024-10-26 16:09:04.251 | INFO     | transform:transform:290 - Transforming loan table data end.
+2024-10-26 16:09:04.252 | INFO     | transform:transform:293 - Transforming borrower table data start.
+2024-10-26 16:09:04.284 | INFO     | transform:transform:296 - Transforming borrower table data end.
+2024-10-26 16:09:04.285 | INFO     | transform:transform:298 - ----------
+2024-10-26 16:09:04.285 | INFO     | transform:transform:299 - Loading fact table start.
+2024-10-26 16:09:05.133 | INFO     | transform:transform:301 - Loading fact table end.
+2024-10-26 16:09:38.948 | INFO     | __main__:main:53 - Transforming
+2024-10-26 16:09:38.980 | INFO     | transform:transform:275 - Transforming loan payment data start.
+2024-10-26 16:09:39.082 | INFO     | transform:transform:278 - Transforming loan payment data end.
+2024-10-26 16:09:39.082 | INFO     | transform:transform:281 - Transforming payment schedule data start.
+2024-10-26 16:09:39.145 | INFO     | transform:transform:284 - Transforming payment schedule data end.
+2024-10-26 16:09:39.145 | INFO     | transform:transform:287 - Transforming loan table data start.
+2024-10-26 16:09:39.201 | INFO     | transform:transform:290 - Transforming loan table data end.
+2024-10-26 16:09:39.201 | INFO     | transform:transform:293 - Transforming borrower table data start.
+2024-10-26 16:09:39.247 | INFO     | transform:transform:296 - Transforming borrower table data end.
+2024-10-26 16:09:39.247 | INFO     | transform:transform:298 - ----------
+2024-10-26 16:09:39.248 | INFO     | transform:transform:299 - Loading fact table start.
+2024-10-26 16:09:40.518 | INFO     | transform:transform:301 - Loading fact table end.
+2024-10-26 16:10:40.589 | INFO     | __main__:main:53 - Transforming
+2024-10-26 16:10:40.622 | INFO     | transform:transform:275 - Transforming loan payment data start.
+2024-10-26 16:10:40.687 | INFO     | transform:transform:278 - Transforming loan payment data end.
+2024-10-26 16:10:40.688 | INFO     | transform:transform:281 - Transforming payment schedule data start.
+2024-10-26 16:10:40.753 | INFO     | transform:transform:284 - Transforming payment schedule data end.
+2024-10-26 16:10:40.754 | INFO     | transform:transform:287 - Transforming loan table data start.
+2024-10-26 16:10:40.811 | INFO     | transform:transform:290 - Transforming loan table data end.
+2024-10-26 16:10:40.811 | INFO     | transform:transform:293 - Transforming borrower table data start.
+2024-10-26 16:10:40.857 | INFO     | transform:transform:296 - Transforming borrower table data end.
+2024-10-26 16:10:40.857 | INFO     | transform:transform:298 - ----------
+2024-10-26 16:10:40.858 | INFO     | transform:transform:299 - Loading fact table start.
+2024-10-26 16:10:40.899 | INFO     | transform:transform:301 - Loading fact table end.
+2024-10-26 16:15:56.935 | INFO     | __main__:main:62 - Loading file ##Borrower_Data - Sheet1.csv## from directory
+2024-10-26 16:15:56.935 | INFO     | __main__:main:65 - Extracting
+2024-10-26 16:15:56.941 | INFO     | __main__:main:69 - Extract - Done
+2024-10-26 16:15:56.942 | INFO     | __main__:main:72 - Loading
+2024-10-26 16:15:57.073 | INFO     | __main__:main:77 - Transforming
+2024-10-26 16:15:57.073 | ERROR    | __main__:main:95 - Error in loading the file
+2024-10-26 16:15:57.074 | ERROR    | __main__:main:96 - name 'file_name' is not defined
+2024-10-26 16:20:06.944 | INFO     | __main__:main:61 - Loading file ##Borrower_Data - Sheet1.csv## from directory
+2024-10-26 16:20:06.945 | INFO     | __main__:main:64 - Extracting
+2024-10-26 16:20:06.951 | INFO     | __main__:main:68 - Extract - Done
+2024-10-26 16:20:06.951 | INFO     | __main__:main:71 - Loading
+2024-10-26 16:20:54.511 | INFO     | __main__:main:61 - Loading file ##Borrower_Data - Sheet1.csv## from directory
+2024-10-26 16:20:54.512 | INFO     | __main__:main:64 - Extracting
+2024-10-26 16:20:54.517 | INFO     | __main__:main:68 - Extract - Done
+2024-10-26 16:20:54.518 | INFO     | __main__:main:71 - Loading
+2024-10-26 16:21:21.394 | INFO     | __main__:main:61 - Loading file ##Borrower_Data - Sheet1.csv## from directory
+2024-10-26 16:21:21.395 | INFO     | __main__:main:64 - Extracting
+2024-10-26 16:21:21.401 | INFO     | __main__:main:68 - Extract - Done
+2024-10-26 16:21:21.401 | INFO     | __main__:main:71 - Loading
+2024-10-26 16:23:29.414 | INFO     | __main__:main:61 - Loading file ##Borrower_Data - Sheet1.csv## from directory
+2024-10-26 16:23:29.414 | INFO     | __main__:main:64 - Extracting
+2024-10-26 16:23:29.420 | INFO     | __main__:main:68 - Extract - Done
+2024-10-26 16:23:29.421 | INFO     | __main__:main:71 - Loading
+2024-10-26 16:23:29.540 | INFO     | __main__:main:76 - Time Stats:
+2024-10-26 16:23:29.541 | INFO     | __main__:main:77 - Extract - 0.00 sec.
+2024-10-26 16:23:29.541 | INFO     | __main__:main:83 - Iteration completed.
+2024-10-26 16:23:29.541 | INFO     | __main__:main:84 - ------------
+2024-10-26 16:23:29.541 | INFO     | __main__:main:61 - Loading file ##Loan_Data - Sheet1.csv## from directory
+2024-10-26 16:23:29.541 | INFO     | __main__:main:64 - Extracting
+2024-10-26 16:23:29.543 | INFO     | __main__:main:68 - Extract - Done
+2024-10-26 16:23:29.544 | INFO     | __main__:main:71 - Loading
+2024-10-26 16:23:29.642 | INFO     | __main__:main:76 - Time Stats:
+2024-10-26 16:23:29.642 | INFO     | __main__:main:77 - Extract - 0.00 sec.
+2024-10-26 16:23:29.642 | INFO     | __main__:main:83 - Iteration completed.
+2024-10-26 16:23:29.643 | INFO     | __main__:main:84 - ------------
+2024-10-26 16:23:29.643 | INFO     | __main__:main:61 - Loading file ##Repayment_Data - Sheet1.csv## from directory
+2024-10-26 16:23:29.643 | INFO     | __main__:main:64 - Extracting
+2024-10-26 16:23:29.646 | INFO     | __main__:main:68 - Extract - Done
+2024-10-26 16:23:29.647 | INFO     | __main__:main:71 - Loading
+2024-10-26 16:23:29.759 | INFO     | __main__:main:76 - Time Stats:
+2024-10-26 16:23:29.759 | INFO     | __main__:main:77 - Extract - 0.00 sec.
+2024-10-26 16:23:29.759 | INFO     | __main__:main:83 - Iteration completed.
+2024-10-26 16:23:29.759 | INFO     | __main__:main:84 - ------------
+2024-10-26 16:23:29.760 | INFO     | __main__:main:61 - Loading file ##Schedule_Data.xlsx - Sheet1.csv## from directory
+2024-10-26 16:23:29.760 | INFO     | __main__:main:64 - Extracting
+2024-10-26 16:23:29.763 | INFO     | __main__:main:68 - Extract - Done
+2024-10-26 16:23:29.763 | INFO     | __main__:main:71 - Loading
+2024-10-26 16:23:29.864 | INFO     | __main__:main:76 - Time Stats:
+2024-10-26 16:23:29.864 | INFO     | __main__:main:77 - Extract - 0.00 sec.
+2024-10-26 16:23:29.864 | INFO     | __main__:main:83 - Iteration completed.
+2024-10-26 16:23:29.865 | INFO     | __main__:main:84 - ------------
+2024-10-26 16:23:29.865 | INFO     | __main__:main:96 - Transforming
+2024-10-26 16:24:15.671 | INFO     | __main__:main:61 - Loading file ##Borrower_Data - Sheet1.csv## from directory
+2024-10-26 16:24:15.671 | INFO     | __main__:main:64 - Extracting
+2024-10-26 16:24:15.677 | INFO     | __main__:main:68 - Extract - Done
+2024-10-26 16:24:15.678 | INFO     | __main__:main:71 - Loading
+2024-10-26 16:24:15.807 | INFO     | __main__:main:76 - Time Stats:
+2024-10-26 16:24:15.807 | INFO     | __main__:main:77 - Extract - 0.00 sec.
+2024-10-26 16:24:15.807 | INFO     | __main__:main:83 - Iteration completed.
+2024-10-26 16:24:15.807 | INFO     | __main__:main:84 - ------------
+2024-10-26 16:24:15.808 | INFO     | __main__:main:61 - Loading file ##Loan_Data - Sheet1.csv## from directory
+2024-10-26 16:24:15.808 | INFO     | __main__:main:64 - Extracting
+2024-10-26 16:24:15.810 | INFO     | __main__:main:68 - Extract - Done
+2024-10-26 16:24:15.810 | INFO     | __main__:main:71 - Loading
+2024-10-26 16:24:15.906 | INFO     | __main__:main:76 - Time Stats:
+2024-10-26 16:24:15.906 | INFO     | __main__:main:77 - Extract - 0.00 sec.
+2024-10-26 16:24:15.907 | INFO     | __main__:main:83 - Iteration completed.
+2024-10-26 16:24:15.907 | INFO     | __main__:main:84 - ------------
+2024-10-26 16:24:15.907 | INFO     | __main__:main:61 - Loading file ##Repayment_Data - Sheet1.csv## from directory
+2024-10-26 16:24:15.907 | INFO     | __main__:main:64 - Extracting
+2024-10-26 16:24:15.910 | INFO     | __main__:main:68 - Extract - Done
+2024-10-26 16:24:15.910 | INFO     | __main__:main:71 - Loading
+2024-10-26 16:24:16.001 | INFO     | __main__:main:76 - Time Stats:
+2024-10-26 16:24:16.001 | INFO     | __main__:main:77 - Extract - 0.00 sec.
+2024-10-26 16:24:16.001 | INFO     | __main__:main:83 - Iteration completed.
+2024-10-26 16:24:16.002 | INFO     | __main__:main:84 - ------------
+2024-10-26 16:24:16.002 | INFO     | __main__:main:61 - Loading file ##Schedule_Data.xlsx - Sheet1.csv## from directory
+2024-10-26 16:24:16.002 | INFO     | __main__:main:64 - Extracting
+2024-10-26 16:24:16.005 | INFO     | __main__:main:68 - Extract - Done
+2024-10-26 16:24:16.005 | INFO     | __main__:main:71 - Loading
+2024-10-26 16:24:16.084 | INFO     | __main__:main:76 - Time Stats:
+2024-10-26 16:24:16.084 | INFO     | __main__:main:77 - Extract - 0.00 sec.
+2024-10-26 16:24:16.084 | INFO     | __main__:main:83 - Iteration completed.
+2024-10-26 16:24:16.084 | INFO     | __main__:main:84 - ------------
+2024-10-26 16:24:16.085 | INFO     | __main__:main:96 - Transforming
+2024-10-26 16:24:16.085 | INFO     | transform:transform:275 - Transforming loan payment data start.
+2024-10-26 16:24:16.165 | INFO     | transform:transform:278 - Transforming loan payment data end.
+2024-10-26 16:24:16.165 | INFO     | transform:transform:281 - Transforming payment schedule data start.
+2024-10-26 16:24:16.226 | INFO     | transform:transform:284 - Transforming payment schedule data end.
+2024-10-26 16:24:16.227 | INFO     | transform:transform:287 - Transforming loan table data start.
+2024-10-26 16:24:16.273 | INFO     | transform:transform:290 - Transforming loan table data end.
+2024-10-26 16:24:16.273 | INFO     | transform:transform:293 - Transforming borrower table data start.
+2024-10-26 16:24:16.319 | INFO     | transform:transform:296 - Transforming borrower table data end.
+2024-10-26 16:24:16.319 | INFO     | transform:transform:298 - ----------
+2024-10-26 16:24:16.319 | INFO     | transform:transform:299 - Loading fact table start.
+2024-10-26 16:24:16.384 | INFO     | transform:transform:301 - Loading fact table end.
+2024-10-26 16:24:16.384 | INFO     | __main__:main:100 - Transform - Done
+2024-10-28 18:38:58.307 | INFO     | __main__:main:62 - Loading file ##Loan_Data - Sheet1.csv## from directory
+2024-10-28 18:38:58.314 | INFO     | __main__:main:65 - Extracting
+2024-10-28 18:38:58.316 | ERROR    | extract:load_file:49 - [Errno 2] No such file or directory: '/home/aniket_sharma/Downloads/assign_done/assignment/data_files/inputLoan_Data - Sheet1.csv'
+2024-10-28 18:38:58.316 | INFO     | __main__:main:69 - Extract - Done
+2024-10-28 18:38:58.316 | INFO     | __main__:main:72 - Loading
+2024-10-28 18:38:58.341 | ERROR    | __main__:main:88 - Error in loading the file
+2024-10-28 18:38:58.341 | ERROR    | __main__:main:89 - No module named 'pymysql'
+2024-10-28 18:40:00.051 | INFO     | __main__:main:63 - Loading file ##Loan_Data - Sheet1.csv## from directory
+2024-10-28 18:40:00.051 | INFO     | __main__:main:66 - Extracting
+2024-10-28 18:40:00.064 | INFO     | __main__:main:70 - Extract - Done
+2024-10-28 18:40:00.065 | INFO     | __main__:main:73 - Loading
+2024-10-28 18:40:00.091 | ERROR    | __main__:main:89 - Error in loading the file
+2024-10-28 18:40:00.091 | ERROR    | __main__:main:90 - No module named 'pymysql'
+2024-10-28 18:40:20.030 | INFO     | __main__:main:63 - Loading file ##Loan_Data - Sheet1.csv## from directory
+2024-10-28 18:40:20.031 | INFO     | __main__:main:66 - Extracting
+2024-10-28 18:40:20.036 | INFO     | __main__:main:70 - Extract - Done
+2024-10-28 18:40:20.037 | INFO     | __main__:main:73 - Loading
+2024-10-28 18:40:20.060 | ERROR    | __main__:main:89 - Error in loading the file
+2024-10-28 18:40:20.061 | ERROR    | __main__:main:90 - (pymysql.err.OperationalError) (1049, "Unknown database 'autocheck'")
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2024-10-28 18:41:06.545 | INFO     | __main__:main:63 - Loading file ##Loan_Data - Sheet1.csv## from directory
+2024-10-28 18:41:06.546 | INFO     | __main__:main:66 - Extracting
+2024-10-28 18:41:06.553 | INFO     | __main__:main:70 - Extract - Done
+2024-10-28 18:41:06.554 | INFO     | __main__:main:73 - Loading
+2024-10-28 18:41:06.767 | INFO     | __main__:main:78 - Time Stats:
+2024-10-28 18:41:06.767 | INFO     | __main__:main:79 - Extract - 0.01 sec.
+2024-10-28 18:41:06.768 | INFO     | __main__:main:85 - Iteration completed.
+2024-10-28 18:41:06.769 | INFO     | __main__:main:86 - ------------
+2024-10-28 18:41:06.769 | INFO     | __main__:main:63 - Loading file ##Borrower_Data - Sheet1.csv## from directory
+2024-10-28 18:41:06.770 | INFO     | __main__:main:66 - Extracting
+2024-10-28 18:41:06.776 | INFO     | __main__:main:70 - Extract - Done
+2024-10-28 18:41:06.777 | INFO     | __main__:main:73 - Loading
+2024-10-28 18:41:06.909 | INFO     | __main__:main:78 - Time Stats:
+2024-10-28 18:41:06.910 | INFO     | __main__:main:79 - Extract - 0.01 sec.
+2024-10-28 18:41:06.910 | INFO     | __main__:main:85 - Iteration completed.
+2024-10-28 18:41:06.912 | INFO     | __main__:main:86 - ------------
+2024-10-28 18:41:06.913 | INFO     | __main__:main:63 - Loading file ##Repayment_Data - Sheet1.csv## from directory
+2024-10-28 18:41:06.913 | INFO     | __main__:main:66 - Extracting
+2024-10-28 18:41:06.920 | INFO     | __main__:main:70 - Extract - Done
+2024-10-28 18:41:06.921 | INFO     | __main__:main:73 - Loading
+2024-10-28 18:41:07.081 | INFO     | __main__:main:78 - Time Stats:
+2024-10-28 18:41:07.082 | INFO     | __main__:main:79 - Extract - 0.01 sec.
+2024-10-28 18:41:07.082 | INFO     | __main__:main:85 - Iteration completed.
+2024-10-28 18:41:07.083 | INFO     | __main__:main:86 - ------------
+2024-10-28 18:41:07.083 | INFO     | __main__:main:63 - Loading file ##Schedule_Data.xlsx - Sheet1.csv## from directory
+2024-10-28 18:41:07.084 | INFO     | __main__:main:66 - Extracting
+2024-10-28 18:41:07.087 | INFO     | __main__:main:70 - Extract - Done
+2024-10-28 18:41:07.088 | INFO     | __main__:main:73 - Loading
+2024-10-28 18:41:07.212 | INFO     | __main__:main:78 - Time Stats:
+2024-10-28 18:41:07.212 | INFO     | __main__:main:79 - Extract - 0.00 sec.
+2024-10-28 18:41:07.212 | INFO     | __main__:main:85 - Iteration completed.
+2024-10-28 18:41:07.213 | INFO     | __main__:main:86 - ------------
+2024-10-28 18:41:07.213 | INFO     | __main__:main:98 - Transforming
+2024-10-28 18:41:07.215 | INFO     | transform:transform:275 - Transforming loan payment data start.
+2024-10-28 18:41:07.365 | INFO     | transform:transform:278 - Transforming loan payment data end.
+2024-10-28 18:41:07.365 | INFO     | transform:transform:281 - Transforming payment schedule data start.
+2024-10-28 18:41:07.527 | INFO     | transform:transform:284 - Transforming payment schedule data end.
+2024-10-28 18:41:07.528 | INFO     | transform:transform:287 - Transforming loan table data start.
+2024-10-28 18:41:07.633 | INFO     | transform:transform:290 - Transforming loan table data end.
+2024-10-28 18:41:07.634 | INFO     | transform:transform:293 - Transforming borrower table data start.
+2024-10-28 18:41:07.725 | INFO     | transform:transform:296 - Transforming borrower table data end.
+2024-10-28 18:41:07.726 | INFO     | transform:transform:298 - ----------
+2024-10-28 18:41:07.726 | INFO     | transform:transform:299 - Loading fact table start.
+2024-10-28 18:41:07.740 | INFO     | transform:transform:301 - Loading fact table end.
+2024-10-28 18:41:07.741 | INFO     | __main__:main:102 - Transform - Done

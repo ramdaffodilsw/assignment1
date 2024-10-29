@@ -1,0 +1,119 @@
+trigger:
+- release/*
+- master
+
+pool:
+  name: 'Linux Agent Pool'
+
+variables:
+  SECRET_FILE: '.env'
+  APP_NAME: 'assignment-app'
+  ENV_NAME: 'assignment-env'
+  EB_APP: '$(APP_NAME)-$(ENV)-app'
+  EB_ENV: '$(ENV_NAME)-$(ENV)-env'
+  SECRET_ID: 'aws/scret/manager/path/config' 
+   
+stages:
+- stage: Build_And_Test
+  displayName: Build & Test
+  jobs:
+  - job: Build_And_Test
+    displayName: Build & Test
+    steps:
+    - task: CmdLine@2
+      displayName: 'Create Folders & Pre Configurations'
+      inputs:
+        script: |
+          mkdir -p storage/framework/{sessions,cache} 
+          cp .env.example .env
+        failOnStderr: true
+
+    - task: CmdLine@2
+      displayName: 'Composer Install'
+      inputs:
+        script: 'composer.phar install'
+    
+    - task: CmdLine@2
+      displayName: 'Unit Testing'
+      inputs:
+        script: 'python XXXX -d memory_limit=-1 --log-junit test-results.xml'
+        failOnStderr: true
+      env:
+        XDEBUG_MODE: coverage
+
+    - task: PublishTestResults@2
+      condition: succeededOrFailed()
+      displayName: 'Publish Unit Testing Results'
+      inputs:
+        testResultsFormat: 'JUnit'
+        testResultsFiles: 'test-results.xml'
+        failTaskOnFailedTests: true
+        testRunTitle: 'Unit Testing Results'
+        
+    - task: SonarCloudPrepare@1
+      inputs:
+        SonarCloud: 'XXXX'
+        organization: 'XXXXXX'
+        scannerMode: 'CLI'
+        configMode: 'file'
+      
+    - task: SonarCloudAnalyze@1
+
+    - task: SonarCloudPublish@1
+      condition: succeededOrFailed()
+      inputs:
+        pollingTimeoutSec: '300'
+    
+    - task: ArchiveFiles@2
+      inputs:
+        rootFolderOrFile: '$(System.DefaultWorkingDirectory)'
+        includeRootFolder: false
+        archiveType: 'zip'
+        archiveFile: '$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip'
+        replaceExistingArchive: true
+        
+    - task: PublishBuildArtifacts@1
+      inputs:
+        PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+        ArtifactName: 'dist'
+        publishLocation: 'Container'
+
+- stage: Deploy_Dev
+  variables:
+    ENV: dev
+    S3_BUCKET: 'bucket-path'
+
+  dependsOn: Build_And_Test
+  condition: and(succeeded(), or(eq(variables['Build.SourceBranch'], 'refs/heads/release/development'), startsWith(variables['Build.SourceBranch'], 'refs/heads/hotfix/release-')), ne(variables['Build.Reason'], 'PullRequest'))
+  displayName: Deploy to Dev
+  jobs:
+  - job: Deploy_Dev
+    displayName: Deploy to Dev
+    steps:
+   
+    - task: DownloadBuildArtifacts@0
+      inputs:
+        artifactName: 'dist'
+        downloadPath: '$(Pipeline.Workspace)'
+        
+    - task: AWSShellScript@1
+      displayName: 'Get Secret Values'
+      inputs:
+        awsCredentials: 'XXXX-XXX'
+        regionName: 'eu-west-1'
+        scriptType: 'inline'
+        inlineScript: |
+          aws secretsmanager get-secret-value --secret-id $(SECRET_ID) | jq -r '.SecretString' | jq -r 'to_entries|map("\(.key)=\(.value|tostring)")|.[]' > $(SECRET_FILE)
+          zip $(Pipeline.Workspace)/dist/$(Build.BuildId).zip $(SECRET_FILE)
+        failOnStandardError: true
+        
+    - task: S3Upload@1
+      inputs:
+        awsCredentials: 'XXXX-XXX'
+        regionName: 'eu-west-1'
+        bucketName: '$(S3_BUCKET)'
+        sourceFolder: '$(Pipeline.Workspace)/dist'
+        globExpressions: '$(Build.BuildId).zip'
+        targetFolder: '$(EB_APP)'
+
+    
